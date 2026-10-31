@@ -39,7 +39,7 @@ so data syncs automatically and reliably, with no copy-pasting and no silent fai
 
 ### 💼 Experience
 
-**Software Engineer — eCommerce & CRM integrations** · Jan 2022 – Aug 2026
+**Software Engineer — eCommerce & CRM integrations** · Jan 2022 – Aug 2026<br/>
 Built and maintained production integrations between eCommerce stores, CRMs and ERPs (HubSpot, Dynamics 365, Business Central, Shopify, WooCommerce), and contributed to a workflow automation platform. *Client code from that role is under NDA, so the projects below are my own original builds.*
 
 **Freelance Backend & Integration Engineer** · Oct 2026 – present
@@ -74,7 +74,7 @@ Built and maintained production integrations between eCommerce stores, CRMs and 
 
 | Project | What it shows |
 |---|---|
-| 🏷️ [**PriceTide**](https://github.com/asthapandey06/shopify-sale-scheduler) | Shopify app that schedules sales and restores every price exactly — Remix/React Router, Prisma, Polaris, App Bridge |
+| 🏷️ [**PriceTide**](https://github.com/asthapandey06/shopify-sale-scheduler) | Shopify app that schedules sales and restores every price exactly — React Router, Prisma, Polaris, App Bridge |
 | 🔄 [**shopify-hubspot-sync**](https://github.com/asthapandey06/shopify-hubspot-sync) | Webhooks, queues, retries and idempotent Shopify → HubSpot CRM sync |
 | 🔐 [**integration-starter-kit**](https://github.com/asthapandey06/integration-starter-kit) | OAuth 2.0, encrypted tokens, safe refresh, rate limiting |
 | 📦 [**catalog-sync**](https://github.com/asthapandey06/catalog-sync) | CSV validation, parallel workers, live progress, WooCommerce batch sync |
