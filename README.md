@@ -26,6 +26,7 @@ so data syncs automatically and reliably, with no copy-pasting and no silent fai
 |---|---|---|
 | 🔗 | **System integrations** | Two-way sync between your store, CRM and ERP, with retries and conflict handling |
 | ⚙️ | **Backend APIs & automation** | Secure REST/GraphQL APIs, webhooks, queues and background jobs |
+| 🔄 | **Custom workflows & automations** | Event and schedule-based workflows, approvals, alerts and run history across your apps |
 | 🛒 | **eCommerce apps** | Shopify apps, product / inventory / order sync for Shopify and WooCommerce |
 | 🌐 | **Websites** | Fast, clean business websites that are easy to maintain |
 
