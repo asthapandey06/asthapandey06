@@ -40,7 +40,7 @@ so data syncs automatically and reliably, with no copy-pasting and no silent fai
 ### 💼 Experience
 
 **Software Engineer — eCommerce & CRM integrations** · Jan 2022 – Aug 2026<br/>
-Built and maintained production integrations between eCommerce stores, CRMs and ERPs (HubSpot, Dynamics 365, Business Central, Shopify, WooCommerce), and contributed to a workflow automation platform. *Client code from that role is under NDA, so the projects below are my own original builds.*
+Built and maintained production integrations between eCommerce stores, CRMs and ERPs (HubSpot, Dynamics 365, Business Central, Shopify, WooCommerce), and contributed to a workflow automation platform.
 
 **Freelance Backend & Integration Engineer** · Oct 2026 – present
 
